@@ -4,7 +4,7 @@ Contains paradigms for Yanesha
 
 ## Data
 
-Source:TBA
+Source: Duff-Trip, M. 1998. Diccionario Yanesha’ (Amuesha)-Castellano
 
 ## Annotators
 Arturo Oncevay ,Gema Celeste Silva Villegas, Juan López Bautista, Didier López Francis, Roberto Zariquiey
@@ -18,6 +18,14 @@ TBA
 
 ## References
 ```
+@book{duff-1980-diccionario,
+  title={Diccionario Yanesha’ (Amuesha)-Castellano},
+  author={Duff-Trip, M},
+  year={1998},
+  publisher={Lima: Instituto Lingüístico de Verano}
+  }
+  
+
 @inproceedings{pimentel-ryskina-etal-2021-sigmorphon,
     title = "SIGMORPHON 2021 Shared Task on Morphological Reinflection: Generalization Across Languages",
     author = "Pimentel, Tiago  and
